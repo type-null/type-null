@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![silvally](https://cdn.bulbagarden.net/upload/b/be/773Silvally.png)
+
+![](https://visitor-badge.glitch.me/badge?page_id=type-null.type-null)
