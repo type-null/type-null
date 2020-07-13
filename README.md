@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![silvally](https://cdn.bulbagarden.net/upload/8/88/006Charizard-Gigantamax.png)
+![gigantamax-chrizard](https://i.imgur.com/EsBD14j.png)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=type-null.type-null)
