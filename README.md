@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 ![gigantamax-chrizard](https://i.imgur.com/EsBD14j.png)
 
-![Github Profile Vistors](https://visitor-badge.glitch.me/badge?page_id=type-null.type-null)
-![GitHub Followers](https://img.shields.io/github/followers/type-null?label=GitHub&style=social)
 <p align="center">
 	<a href="https://github.com/type-null"><img src="https://visitor-badge.glitch.me/badge?page_id=type-null.type-null" alt="Github Profile Vistors"></a>
   <a href="https://github.com/type-null"><img src="https://img.shields.io/github/followers/type-null?label=GitHub&style=social" alt="GitHub Followers"></a>
