@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![silvally](https://www.pokemon-card.com/ex/s3/_nuxt/img/eda817e.jpg)
+![silvally](https://cdn.bulbagarden.net/upload/8/88/006Charizard-Gigantamax.png)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=type-null.type-null)
